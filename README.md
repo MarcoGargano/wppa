@@ -1,4 +1,4 @@
-# wppa
+# WPPA
 ## Starter-kit WordPress per la Pubblica Amministrazione 🇮🇹 
 
 
