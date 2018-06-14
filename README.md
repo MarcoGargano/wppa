@@ -64,3 +64,9 @@ Per una migliore gestione dei siti su WordPress, consigliamo di installare i seg
 + Page Builder by SiteOrigin - Creazione struttura pagine
 + Custom Field Suite - Creazione di nuovi campi
 
+---
+
+**Il team di WPPA ti ringrazia!**
+
+Se ti piace il progetto oppure ti è stato utile, offrimi una pizza.
+[🍕 🍕 🍕  P I Z Z A   T I M E ! ! !  🍕 🍕 🍕](https://www.paypal.me/MarcoGargano/5)
