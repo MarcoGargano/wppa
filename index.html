@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -7,24 +6,192 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
 
-    <title>WPPA</title>
+    <title>WPPA - Starter-kit WordPress per la Pubblica Amministrazione Italia</title>
     <meta name="author" content="Marco Gargano">
-    <meta name="description" content="Wordpress per la Pubblica Amministrazione">
+    <meta name="description" content="WordPress per la Pubblica Amministrazione">
 
-    <meta property="og:url" content="" />
-    <meta property="og:type" content="" />
-    <meta property="og:title" content="" />
-    <meta property="og:description" content="" />
-    <meta property="og:image" content="" />
+    <meta property="og:url" content="http://www.marcogargano.com/wp-pa/page/" />
+    <meta property="og:type" content="site" />
+    <meta property="og:title" content="WPPA - Starter-kit WordPress per la Pubblica Amministrazione Italia" />
+    <meta property="og:description" content="WPPA è utilizzabile per i siti internet della Pubblica Amministrazione italiana in Wordpress e Bootstrap, ripettando le linee guida dell'Agenzia per l'Italia digitale." />
+    <meta property="og:image" content="http://www.marcogargano.com/wp-pa/page/img/logo-wppa.png" />
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,700">
-    <link rel="stylesheet" href="css/normalize.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand:400,700">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
     <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>
   
-<h1>WPPA</h1>
+  <div class="head">
+    <h1><img src="http://www.marcogargano.com/wp-pa/page/img/logo-wppa.png" alt="Logo WPPA">WPPA</h1>
+    <div id="logo-mask">
+      <img src="img/logo-mask.png">
+    </div>
+    <h2>
+      <span>Starter-kit WordPress per la</span>
+      <span>Pubblica Amministrazione IT</span>
+    </h2>
+  </div>
+  
+  <div class="desc">
+    <h2>🇮🇹 WordPress per la PA in Italia</h2>
+    <blockquote>
+      <h5>Scenario</h5>
+      <p><em>&ldquo; La trasformazione digitale è una priorità del Governo. Il Piano Triennale richiede un gioco di squadra per semplificare 
+      la Pubblica Amministrazione e la vita dei cittadini. &rdquo;</em></p>
+      <p><small><strong>Paolo Gentiloni</strong><br>
+      Presidente del Consiglio dei Ministri</small></p>
+    </blockquote>
+
+    <h5>Cos'è il Piano Triennale 2017/2019?</h5>
+    <p>È il documento di indirizzo <strong>strategico ed economico</strong> destinato a tutta la Pubblica Amministrazione che accompagna la <strong>trasformazione digitale del Paese</strong>.</p>
+
+    <p>Per informazioni consulta i siti ufficiali per la Trasformazione Digitale: </p>
+    <p>
+      <a target="_blank" title="Piano Triennale" class="btn btn-line btn-small" href="https://pianotriennale-ict.italia.it/">Piano Triennale</a>
+      <a target="_blank" title="Agenzia per l'Italia digitale" class="btn btn-line btn-small" href="https://www.agid.gov.it/">Agenzia per l'Italia digitale</a>
+      <a target="_blank" title="Team per la trasformazione digitale" class="btn btn-line btn-small" href="https://teamdigitale.governo.it/">Team per la trasformazione digitale</a>
+    </p>
+
+    <hr>
+
+    <h4>WPPA WordPress starter-kit</h4>
+    <p>WPPA &egrave; un semplice starter-kit utilizzabile per i <strong>siti internet</strong> della Pubblica Amministrazione italiana. </p>
+    <p>WPPA è sviluppato per <strong>WordPress</strong> (CMS open-source), su framework <strong>Bootstrap</strong> e può esser utilizzato come tema. 
+    WPPA rispetta le <strong>nuove linee guida di design</strong> dell'Agenzia per l'Italia digitale e, inoltre, le caratteristiche per i servizi web 
+    della Pubblica Amministrazione contenute nel Piano triennale per l'informatica nella Pubblica Amministrazione 2017/2019.</p>
+    <p>WPPA vuole proporre una <strong>soluzione open-source e gratuita</strong>, ideale per comuni, scuole e piccoli enti pubblici in genere che hanno scelto di utilizzare WordPress per il proprio sito intenet.</p>
+    <p>
+      <a target="_blank" title="Scarica il tema" class="btn" href="https://it.wordpress.org/themes/">Scarica il tema</a>
+      <a title="Scopri i dettagli" class="btn btn-line" href="#dettagli">Scopri i dettagli</a>
+      <a title="Prova la demo" class="btn btn-line" href="#demo">Prova la demo</a>
+    </p>
+    <p>Vuoi maggiori informazioni: </p>
+    <p>
+      <a target="_blank" title="Sito wordpress.org" class="btn btn-line btn-small" href="https://it.wordpress.org/">Sito wordpress.org</a> 
+      <a target="_blank" title="Sito Bootstrap" class="btn btn-line btn-small" href="https://getbootstrap.com/">Sito Bootstrap</a> 
+      <a target="_blank" title="Sito repo Github" class="btn btn-line btn-small" href="https://github.com/marcogargano/wppa">Sito repo Github</a>
+    </p>
+    
+  </div>
+  
+  <!-- MODAL -->
+  <div id="demo" class="modal-dialog">
+    <div>
+      <a href="#modal-close" title="Close" class="modal-close">&times;</a>
+      <h2>WPPA Demo</h2>
+      <iframe src="https://www.marcogargano.com/wp-pa/wp/" frameborder="0" width="100%" height="100%">Caricamento...</iframe>
+    </div>
+  </div>
+
+  <div id="dettagli" class="item">
+    <h2>🖥️ Principali caratteristiche di WPPA</h2>
+  </div>
+
+  <div class="item">
+    <h3>WordPress 4</h3>
+    <p>WPPA è realizzato per l'ultima versione di WordPress disponibile in italiano, attualmente la versione 4.9.6.</p>
+  </div>
+  
+  <div class="item">
+    <h3>Bootstrap 4</h3>
+    <p>WPPA &egrave; sviluppato su framework Bootstrap 4. Pu&ograve; esser utilizzato direttamente nell'editor di WordPress come HTML.</p>
+  </div>
+
+  <div class="item">
+    <h3>Responsive</h3>
+    <p>WPPA si adatta a disposiviti sia desktop che mobile, senza perdere alcuna funzionalit&agrave;.</p>
+  </div>
+
+  <div class="item">
+    <h3>4 posizioni del menu</h3>
+    <p>WPPA mette a disposizione 4 posizioni di menu, nelle quali è possibile gestire la selezione della lingua e i canali social.</p>
+  </div>
+  
+  <div class="item">
+    <h3>3 aree widget</h3>
+    <p>WPPA offre 3 aree dove è possibile inserire widget: una presente in home-page, un'altra nel footer e infine nella sidebar.</p>
+  </div>
+  
+  <div class="item">
+    <h3>Logo e titolo</h3>
+    <p>WPPA permette la personalizzazione del logo, del titolo e del motto del sito direttamente dalla personalizzazione del tema.</p>
+  </div>
+  
+  <div class="item">
+    <h3>Home-page</h3>
+    <p>WPPA ha un template differente per la home-page che ti permette di comunicare al meglio al tuo pubblico.</p>
+  </div>
+
+  <div class="item">
+    <h3>Pochi file</h3>
+    <p>WPPA &egrave; sviluppato cercando di utilizzare pochi file php nel tema, in modo che possa esser la base per sviluppi propri.</p>
+    <!-- <p>wdg-wordpress-theme <br>
+    ├─┬ assets <br>
+    │ ├── dist <br>
+    │ ├── fonts <br>
+    │ ├── img <br>
+    │ ├── js <br>
+    │ ├── sass <br>
+    │ └── vendor <br>
+    ├── includes <br>
+    │ ├── api <br>
+    │ ├── cli <br>
+    │ ├── fields <br>
+    │ ├── shortcodes <br>
+    │ ├── vendor <br>
+    │ └── widgets <br>
+    ├── languages <br>
+    ├── node_modules <br>
+    ├── partials <br>
+    ├── templates <br>
+    └── tests</p> -->
+  </div>
+  
+  <div class="item">
+    <h3>Plugins suggeriti</h3>
+    <p>Per una migliore gestione dei siti su WordPress, consigliamo di installare i seguenti plugins.</p>
+    <h5>Integrazione Pubblica Amministrazione</h5>
+    <ul>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://it.wordpress.org/plugins/amministrazione-trasparente/">Amministrazione Trasparente</a> <small>Diffusione di informazioni</small></li>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/amministrazione-aperta/">Amministrazione Aperta</a> <small>Sovvenzioni, contributi e incarichi</small></li>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/albo-pretorio-on-line/">Albo Pretorio on-line</a> <small>Atti in adempimento</small></li>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/wp-spid-italia/">WP Spid Italia</a> <small>Sistema Pubblico di Identità Digitale</small></li>
+    </ul>
+    <h5>Funzionalità di base</h5>
+    <ul>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/wordpress-seo/">Yoast SEO</a> <small>Gestione SEO avanzata</small></li>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/contact-form-7/">Contact Form 7</a> <small>Creazione form di contatto</small></li>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/cookie-notice/">dFactory Cookie Notice</a> <small>Notifica utilizzo cookies</small></li>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/akismet/">Akismet</a> <small>Anti spam</small></li>
+    </ul>
+    <h5>Funzionalità avanzate</h5>
+    <ul>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/download-manager/">Download Manager</a> <small>Gestione allegati e documenti</small></li>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/google-analytics-dashboard-for-wp/">Google Analytics Dashboard</a> <small>Integrzione Google Analytics</small></li>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/siteorigin-panels/">Page Builder by SiteOrigin</a> <small>Creazione struttura pagine</small></li>
+      <li><a target="_blank" class="btn btn-line btn-small" href="https://wordpress.org/plugins/custom-field-suite/">Custom Field Suite</a> <small>Creazione di nuovi campi</small></li>
+    </ul>
+  </div>
+
+  <div class="item">
+    <h3>Il team di WPPA ti ringrazia!</h3>
+    <p>Se ti piace il progetto oppure ti &egrave; stato utile, offrimi una pizza.</p>
+    <a target="_blank" class="btn btn-block" href="https://www.paypal.me/MarcoGargano/5">🍕 🍕 🍕&nbsp;&nbsp;P&nbsp;I&nbsp;Z&nbsp;Z&nbsp;A&nbsp;&nbsp;&nbsp;T&nbsp;I&nbsp;M&nbsp;E&nbsp;!&nbsp;!&nbsp;!&nbsp;&nbsp;🍕 🍕 🍕</a>
+
+    <hr>
+
+    <h3>Ricordati di condividere il progetto e consigliarci</h3>
+    <p>
+      <a target="_blank" class="btn btn-line" href="https://www.facebook.com/sharer/sharer.php?u=http%3A//www.marcogargano.com/wp-pa/page/">Share on Facebook</a>
+      <a target="_blank" class="btn btn-line" href="https://twitter.com/home?status=WPPA%20-%20Starter-kit%20WordPress%20per%20la%20Pubblica%20Amministrazione%20Italia%20http%3A//www.marcogargano.com/wp-pa/page/">Share on Twitter</a>
+    </p>
+  </div>
+
+  <div class="item">
+    <small>2018 &copy; Marco Gargano</small>
+  </div>
 
 </body>
 </html>
