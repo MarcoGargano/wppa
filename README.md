@@ -35,7 +35,7 @@ WPPA permette la personalizzazione del logo, del titolo e del motto del sito dir
 WPPA ha un template differente per la home-page che ti permette di comunicare al meglio al tuo pubblico.
 
 #### Pochi file
-WPPA è sviluppato cercando di utilizzare pochi file php nel tema, in modo che possa esser la base per sviluppi propri.
+WPPA è sviluppato utilizzando pochi file php nella cartella del tema, in modo che possa esser la base per sviluppi propri.
 
 ---
 
