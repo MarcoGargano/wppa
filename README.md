@@ -1,5 +1,5 @@
 # WPPA
-## Starter-kit WordPress per la Pubblica Amministrazione 🇮🇹 
+## 🇮🇹 Starter-kit WordPress per la Pubblica Amministrazione 
 
 
 WPPA è un semplice starter-kit utilizzabile per i **siti internet** della Pubblica Amministrazione italiana.
