@@ -8,7 +8,7 @@ WPPA è sviluppato per **WordPress** (CMS open-source), su framework **Bootstrap
 
 WPPA vuole proporre una **soluzione open-source e gratuita**, ideale per comuni, istituti e piccoli enti pubblici in genere che hanno scelto di utilizzare WordPress per il proprio sito intenet.
 
-[Visita la pagina del progetto](https://marcogargano.github.io/wppa/)
+[👉 Visita la pagina del progetto 👈](https://marcogargano.github.io/wppa/)
 
 ---
 
