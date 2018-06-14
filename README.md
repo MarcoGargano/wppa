@@ -74,4 +74,4 @@ Se ti piace il progetto oppure ti è stato utile, offrimi una pizza.
 
 ---
 
- 2018 © Marco Gargano 
+ ![Party!](http://cultofthepartyparrot.com/parrots/parrot.gif "Party!")   2018 © Marco Gargano 
