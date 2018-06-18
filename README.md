@@ -31,6 +31,9 @@ WPPA offre 3 aree dove è possibile inserire widget: una presente in home-page, 
 #### Logo e titolo
 WPPA permette la personalizzazione del logo, del titolo e del motto del sito direttamente dalla personalizzazione del tema.
 
+#### Colori e link
+WPPA consente di selezionare e personalizzare i colori per la testata, il footer e i suoi link.
+
 #### Home-page
 WPPA ha un template differente per la home-page che ti permette di comunicare al meglio al tuo pubblico.
 
