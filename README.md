@@ -29,7 +29,7 @@ WPPA mette a disposizione 4 posizioni di menu, nelle quali è possibile gestire 
 WPPA offre 3 aree dove è possibile inserire widget: una presente in home-page, un'altra nel footer e infine nella sidebar.
 
 #### Logo e titolo
-WPPA permette la personalizzazione del logo, del titolo e del motto del sito direttamente dalla personalizzazione del tema.
+WPPA permette la personalizzazione del logo, del titolo e del motto del sito direttamente dal tema.
 
 #### Colori e link
 WPPA consente di selezionare e personalizzare i colori per la testata, il footer e i suoi link.
