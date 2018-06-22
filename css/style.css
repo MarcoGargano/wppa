@@ -235,3 +235,17 @@ blockquote {
 .modal-dialog iframe {
   height: calc(100vh - 70px);
 }
+
+
+.item img {
+  float: right;
+  margin: 20px 0 0 40px;
+  max-width: 180px;
+}
+
+@media screen and (max-width: 420px) {
+  .item img {
+    min-width: 100%;
+    margin: 0 0 40px 0;
+  }
+}
