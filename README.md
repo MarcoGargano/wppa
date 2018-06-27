@@ -4,7 +4,7 @@
 
 WPPA è un semplice starter-kit utilizzabile per i **siti internet** della Pubblica Amministrazione italiana.
 
-WPPA è sviluppato per **WordPress** (CMS open-source), su framework **Bootstrap** e può esser utilizzato come tema. WPPA rispetta le **nuove linee guida di design dell'Agenzia per l'Italia digitale** e, inoltre, le caratteristiche per i servizi web della Pubblica Amministrazione contenute nel Piano triennale per l'informatica nella Pubblica Amministrazione 2017/2019.
+WPPA è sviluppato per **WordPress** (CMS open-source), su framework **Bootstrap** e può esser utilizzato come tema gratuito. WPPA rispetta le **nuove linee guida di design dell'Agenzia per l'Italia digitale** e le caratteristiche per i servizi web della Pubblica Amministrazione contenute nel Piano triennale per l'informatica nella Pubblica Amministrazione 2017/2019.
 
 WPPA vuole proporre una **soluzione open-source e gratuita**, ideale per comuni, istituti e piccoli enti pubblici in genere che hanno scelto di utilizzare WordPress per il proprio sito intenet.
 
