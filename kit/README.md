@@ -1,3 +1,10 @@
+## Aggiornamenti
+Gli aggiornamenti verranno notificati all'interno dell'amministrazione di WordPress.
+
+
+
+
+
 ## Versionamenti
 
 
