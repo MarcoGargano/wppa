@@ -48,17 +48,17 @@ Per una migliore gestione dei siti su WordPress, consigliamo di installare i seg
 
 #### Funzionalità di base
 
-+ Yoast SEO - Gestione SEO avanzata
-+ Contact Form 7 - Creazione form di contatto
-+ dFactory Cookie Notice - Notifica utilizzo cookies
-+ Akismet - Anti spam
++ [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Gestione SEO avanzata
++ [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Creazione form di contatto
++ [dFactory Cookie Notice](https://wordpress.org/plugins/cookie-notice/) - Notifica utilizzo cookies
++ [Akismet](https://wordpress.org/plugins/akismet/) - Anti spam
 
 #### Funzionalità avanzate
 
-+ Download Manager - Gestione allegati e documenti
-+ Google Analytics Dashboard - Integrzione Google Analytics
-+ Page Builder by SiteOrigin - Creazione struttura pagine
-+ Custom Field Suite - Creazione di nuovi campi
++ [Download Manager](https://wordpress.org/plugins/download-manager/) - Gestione allegati e documenti
++ [Google Analytics Dashboard](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) - Integrzione Google Analytics
++ [Page Builder by SiteOrigin](https://wordpress.org/plugins/siteorigin-panels/) - Creazione struttura pagine
++ [Custom Field Suite](https://wordpress.org/plugins/custom-field-suite/) - Creazione di nuovi campi
 
 ---
 
