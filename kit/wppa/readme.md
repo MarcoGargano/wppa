@@ -4,7 +4,7 @@
 
 WPPA è un semplice tema utilizzabile per i **siti internet** della Pubblica Amministrazione italiana.
 
-WPPA è sviluppato per **WordPress 4** (CMS open-source), su framework **Bootstrap 4**. 
+WPPA è sviluppato per [**WordPress 4**](https://it.wordpress.org/) (CMS open-source), su framework [**Bootstrap 4**](https://getbootstrap.com/). 
 
 WPPA rispetta le [**nuove linee guida di design dell'Agenzia per l'Italia digitale**](https://design-italia.readthedocs.io/it/stable/index.html) rilasciare dal [**Team per la trasformazione digitale**](https://teamdigitale.governo.it/) e le caratteristiche per i servizi web della Pubblica Amministrazione contenute nel [**Piano triennale**](https://pianotriennale-ict.italia.it/) per l'informatica nella Pubblica Amministrazione 2017/2019.
 
@@ -23,8 +23,8 @@ WPPA propone una **soluzione open-source e gratuita**, ideale per comuni, istitu
 ---
 
 ## 🖥️ Principali caratteristiche di WPPA
-* **WordPress 4** - WPPA è realizzato per l'ultima versione di WordPress disponibile in italiano, attualmente la versione 4.9.6.
-* **Bootstrap 4** - WPPA è sviluppato su framework Bootstrap 4. Può esser utilizzato direttamente nell'editor di WordPress come HTML.
+* **WordPress** - WPPA è realizzato per l'ultima versione di WordPress disponibile in italiano, attualmente la versione 4.9.6.
+* **Bootstrap** - WPPA è sviluppato su framework Bootstrap 4. Può esser utilizzato direttamente nell'editor di WordPress come HTML.
 * **Responsive** - WPPA si adatta a disposiviti sia desktop che mobile, senza perdere alcuna funzionalità.
 * **4 posizioni del menu** - WPPA mette a disposizione 4 posizioni di menu, nelle quali è possibile gestire la selezione della lingua e i canali social.
 * **3 aree widget** - WPPA offre 3 aree dove è possibile inserire widget: una presente in home-page, un'altra nel footer e infine nella sidebar.
