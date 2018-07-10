@@ -1,17 +1,27 @@
-### WPPA
+# WPPA
 
 Contributors: Marco Gargano
+
 Requires at least: WordPress 4.1
+
 Tested up to: WordPress 4.9-trunk
+
 Version: 0.3
+
 License: AGPL-3.0
+
 License URI: LICENSE
+
 Tags: one-column, two-columns, right-sidebar, custom-header, custom-colors, custom-logo, custom-menu, footer-widgets, editor-style, featured-images, post-formats, theme-options
 
 
 ## Description
 
-WPPA è un semplice tema utilizzabile per i siti internet della Pubblica Amministrazione italiana. WPPA è sviluppato per WordPress 4 (CMS open-source), su framework Bootstrap 4. WPPA rispetta le nuove linee guida di design dell'Agenzia per l'Italia digitale rilasciare dal Team per la trasformazione digitale e le caratteristiche per i servizi web della Pubblica Amministrazione contenute nel Piano triennale per l'informatica nella Pubblica Amministrazione 2017/2019. WPPA propone una soluzione open-source e gratuita, ideale per comuni, istituti e piccoli enti pubblici in genere che hanno scelto di utilizzare WordPress per il proprio sito intenet.
+WPPA è un semplice tema utilizzabile per i siti internet della Pubblica Amministrazione italiana. WPPA è sviluppato per WordPress 4 (CMS open-source), su framework Bootstrap 4. 
+
+WPPA rispetta le nuove linee guida di design dell'Agenzia per l'Italia digitale rilasciare dal Team per la trasformazione digitale e le caratteristiche per i servizi web della Pubblica Amministrazione contenute nel Piano triennale per l'informatica nella Pubblica Amministrazione 2017/2019. 
+
+WPPA propone una soluzione open-source e gratuita, ideale per comuni, istituti e piccoli enti pubblici in genere che hanno scelto di utilizzare WordPress per il proprio sito intenet.
 
 * Responsive Layout
 * Custom Colors
