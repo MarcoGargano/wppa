@@ -1,14 +1,20 @@
 .alert {
+	position: fixed;
+	top: 0;
 	width: 86%;
 	margin: 3%;
 	padding: 3% 4%;
 	color: #fff;
 	background: #43a0fe;
+	border-radius: 10px;
 }
 .alert a {
 	color: #fff;
 	text-decoration: none;
 	border-bottom: solid 1px rgba(255, 255, 255, .6);
+}
+.head {
+	padding-top: 50vh;
 }
 
 html, body {
