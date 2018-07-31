@@ -11,7 +11,10 @@
 .alert a {
 	color: #fff;
 	text-decoration: none;
-	border-bottom: solid 1px rgba(255, 255, 255, .6);
+	border-bottom: solid 1px rgba(255, 255, 255, .2);
+}
+.alert a:hover {
+	border-bottom: solid 1px rgba(255, 255, 255, .8);
 }
 .head {
 	padding-top: 50vh;
