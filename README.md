@@ -1,3 +1,14 @@
+
+# 🚛 WPPA ha traslocato da [Developers Italia](https://github.com/italia)
+
+### ⚡ Per futuri aggiornamenti consultare [github.com/italia/design-wordpress-theme](https://github.com/italia/design-wordpress-theme) ⚡
+
+---
+
+---
+
+---
+
 # WPPA
 ## 🇮🇹 Tema di WordPress per la Pubblica Amministrazione 
 
